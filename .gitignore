@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-1.00/**
+1.000/**
 Data/**
 Saved Models and Weights/**
 Tuned CNN.ipynb
