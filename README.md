@@ -140,7 +140,7 @@ It may shock you to learn that the error rate for radiologists is 4%. On average
 
 ## For More Information
 
-Please review my full technical analysis in [Jupyter Notebook](link here) or my nontechnical analysis in [presentation](link here).
+Please review my full technical analysis in [Jupyter Notebook](https://github.com/SamuelRahwa/Image-Classification-with-Deep-Learning/blob/main/Modeling/Transfer%20Learning%20CNN%20Model.ipynb) or my nontechnical analysis in [presentation](https://github.com/SamuelRahwa/Image-Classification-with-Deep-Learning/blob/main/Image-Classification-with-Deep-Learning.pdf).
 
 For any additional questions, please contact **Samuel Rahwa at samuelaaronrahwa@gmail.com**
 
@@ -148,9 +148,8 @@ For any additional questions, please contact **Samuel Rahwa at samuelaaronrahwa@
 ## Repository Structure
 
 ```
-├── Data                                        <- Both sourced externally and generated from code
-├── Models                                      <- Narrative documentation of analysis in Jupyter notebook
-├── Images                                      <- Both sourced externally and generated from code
-├── Chicago Traffic Crashes Presentation.pdf    <- PDF version of project presentation
-└── README.md                                   <- The top-level README for reviewers of this project
+├── Images                                         <- Both sourced externally and generated from code
+├── Modeling                                       <- Narrative documentations of my analysis in Jupyter notebooks
+├── Image-Classification-with-Deep-Learning.pdf    <- PDF version of project presentation
+└── README.md                                      <- The top-level README for reviewers of this project
 ```
